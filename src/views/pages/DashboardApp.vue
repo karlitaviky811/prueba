@@ -13,7 +13,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="about">
+  <div class="about bg-white drop-shadow-1">
     <!-- Banner -->
     <Banner/>
 

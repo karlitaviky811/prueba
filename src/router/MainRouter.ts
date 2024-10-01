@@ -15,6 +15,11 @@ const MainRoutes =   {
       name: 'Tables',
       component: () => import('@/views/pages/TablesApp.vue')
     },
+    {
+      path: '/tickets',
+      name: 'Tickets',
+      component: () => import('@/views/pages/TicketsApp.vue')
+    },
   ]
 }
 
